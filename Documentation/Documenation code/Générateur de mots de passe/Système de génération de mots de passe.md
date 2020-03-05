@@ -9,7 +9,7 @@
 Générateur de mots de passe utilise un système de génération de mots de passe nommé "LABS_PWRG". Ce système a d'abord été développé en Visuak Basic .NET, pui a été traduit en C#.
 ## 2. Code
 ### a. Paramètres
-LABS_PWRG a besoin de plusieurs paramètres pour pouvori générer un mot de passe :
+LABS_PWRG a besoin de plusieurs paramètres pour pouvoir générer un mot de passe :
 | Paramètre       | Type de valeur       | Nom
 | :------------- | :----------: |:---------:|
 | Longueur du mot de passe | Integer   | textBoxNumber
