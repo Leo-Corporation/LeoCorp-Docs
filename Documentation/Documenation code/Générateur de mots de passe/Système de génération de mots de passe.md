@@ -1,10 +1,10 @@
 # Système de génération de mots de passe
 ## Table des matières
-- **[1. Introduction]()**
-- **[2. Code]()**
-- *[a. Paramètres]()*
-- *[b. Génération]()*
-- *[c. Gérer les erreurs]()*
+- **[1. Introduction](#1-introduction)**
+- **[2. Code](#2-code)**
+- *[a. Paramètres](#a-param%C3%A8tres)*
+- *[b. Génération](#b-g%C3%A9n%C3%A9ration)*
+- *[c. Gérer les erreurs](#c-g%C3%A9rer-les-erreurs)*
 ---
 ## 1. Introduction
 Générateur de mots de passe utilise un système de génération de mots de passe nommé "LABS_PWRG". Ce système a d'abord été développé en Visuak Basic .NET, pui a été traduit en C#.
