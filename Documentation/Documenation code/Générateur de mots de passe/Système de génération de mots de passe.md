@@ -1,4 +1,3 @@
-# Système de génération de mots de passe
 ## Table des matières
 - **[1. Introduction](#1-introduction)**
 - **[2. Code](#2-code)**
