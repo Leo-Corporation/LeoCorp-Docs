@@ -14,6 +14,7 @@ Vous trouverez dans ce répertoire tous ces types de documents :
 - Changelogs
 - Annonces (nouvelles versions...)
 - Règles (de contribution)
+- Documentation (wiki, code...)
 
 > Note : Il peut potentiellement avoir d'autres types de documents présent dans ce répertoire, sans que ces types figurent dans la liste ci-desssus.
 
