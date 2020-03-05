@@ -15,4 +15,4 @@ Pour pouvoir ouvrir le projet, vous devez disposer du [SDK .NET Framework 4.7.2]
 ## Fichiers joints
 Vous trouverez joint à cette release ces fichiers :
 - Guna.UI.dll
-- Generateur.de.mots.de.passe.3.exe# Quoi de neuf ?
+- Generateur.de.mots.de.passe.3.exe
