@@ -6,7 +6,7 @@
 - *[c. Gérer les erreurs](#c-g%C3%A9rer-les-erreurs)*
 ---
 ## 1. Introduction
-Générateur de mots de passe utilise un système de génération de mots de passe nommé "LABS_PWRG". Ce système a d'abord été développé en Visuak Basic .NET, pui a été traduit en C#.
+Générateur de mots de passe utilise un système de génération de mots de passe nommé "LABS_PWRG". Ce système a d'abord été développé en Visual Basic .NET, puis a été traduit en C#.
 ## 2. Code
 ### a. Paramètres
 LABS_PWRG a besoin de plusieurs paramètres pour pouvoir générer un mot de passe :
