@@ -7,6 +7,8 @@ Léo Corporation Docs est le répertoire où se situent tous les documents GitHu
 - [LABS-ExperimentalConsole](https://github.com/Leo-Corporation/LABS-ExperimentalConsole)
 - [FileCounter](https://github.com/Leo-Corporation/FileCounter)
 - [InternetTest](https://github.com/Leo-Corporation/InternetTest)
+
+C'est aussi l'endroit où des fichiers de mises à jour seront stockés, il ne faut pas les modifier.
 ## Dans quel but ?
 Le but principal de ce répertoire est de réviser les documents qui vont être publiés sur les répertoires ci-dessus. 
 
