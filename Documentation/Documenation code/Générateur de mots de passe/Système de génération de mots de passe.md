@@ -57,7 +57,7 @@ else
 Si tout est bon, on peut générer le mot de passe. Nous allons utiliser une boucle `for`, et nous allons aussi générer un nombre aléatoire nommé `Number` :
 ~~~
 int Number = 0;
-random RadomClass = new Random(); // Nombre aléatoire
+random RandomClass = new Random(); // Nombre aléatoire
 Number = RandomClass.Next(0, 65); // Nombre entre 0 et 65
 ~~~
 `Number` va nous permettre d'ajouter à la variable `FinalPassoword` un caractère présent dans ``UsableChar[]``. Par exemple, si ``Number`` = 15, le caractère se situant à l'index 15 de ``UsableChar[]`` est `P`. On ajoute alors cette lettre à `FinalPassword`, et on répète cette opération le nombre de fois que l'utilisateur a spécifié (`textBoxNumber`). Voici le code :
