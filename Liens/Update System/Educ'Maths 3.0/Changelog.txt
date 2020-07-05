@@ -1,3 +1,2 @@
-Nouveau dans la version 3.4.0.2006 :
-- Nouveaux icones
-- Nouveau design sur certaines fenetres
+Nouveau dans la version 3.4.1.2007 :
+- Correction d'un bug : Le bouton "X" ne fonctionne pas
