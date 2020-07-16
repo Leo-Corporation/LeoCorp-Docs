@@ -1,12 +1,6 @@
 # Léo Corporation Docs
 ## Qu'est-ce que c'est ?
-Léo Corporation Docs est le répertoire où se situent tous les documents GitHub des différents répertoires, comme :
-- [Générateur de mots de passe](https://github.com/Leo-Corporation/Generateur-de-mots-de-passe)
-- [LABS-Update-System-CS-](https://github.com/Leo-Corporation/LABS-Update-System-CS-)
-- [LABS-Update-System-VB-](https://github.com/Leo-Corporation/LABS-Update-System-VB-)
-- [LABS-ExperimentalConsole](https://github.com/Leo-Corporation/LABS-ExperimentalConsole)
-- [FileCounter](https://github.com/Leo-Corporation/FileCounter)
-- [InternetTest](https://github.com/Leo-Corporation/InternetTest)
+Léo Corporation Docs est le répertoire où se situent des documents, et des fichiers qui ont un lien avec nos logiciels.
 
 C'est aussi l'endroit où des fichiers de mises à jour seront stockés, il ne faut pas les modifier.
 ## Dans quel but ?
@@ -17,6 +11,7 @@ Vous trouverez dans ce répertoire tous ces types de documents :
 - Annonces (nouvelles versions...)
 - Règles (de contribution)
 - Documentation (wiki, code...)
+- Fichiers de mises à jour (versions, liens)
 
 > Note : Il peut potentiellement avoir d'autres types de documents présent dans ce répertoire, sans que ces types figurent dans la liste ci-desssus.
 
