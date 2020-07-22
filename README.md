@@ -31,3 +31,6 @@ Un document changelog de Générateur de mots de passe se situe dans `Changelogs
 
 ## Contribuer à README
 Vous pouvez contribuer à ce document pour le rendre plus clair et compréhensible.
+
+## License
+Projet sous license [Apache-2.0 License](https://github.com/Leo-Corporation/LeoCorp-Docs/blob/master/LICENSE.md)
