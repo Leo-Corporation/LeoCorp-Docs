@@ -1,2 +1,4 @@
-Nouveau dans la version 3.4.1.2007 :
-- Correction d'un bug : Le bouton "X" ne fonctionne pas
+Nouveau dans la version 3.5.0.2008 :
+- Correction d'un bug : Le bouton "Triangles" dans le launcher ne fonctionne pas
+- Nouvelles leçons
+- Nouveau design de la page "Accueil"
