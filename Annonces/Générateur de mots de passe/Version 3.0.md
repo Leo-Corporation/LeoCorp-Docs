@@ -5,7 +5,7 @@ Dans un logiciel, l'interface utilisateur est un point clé : elle doit être si
 Actuellement, l'interface de Générateur de mots de passe respecte certains de ces critères, mais elle n'est plus très à la page.
 C'est pour cela que la version 3.0 de Générateur de mots de passe devra comporter une meilleure interface.
 ## 2. Guna.UI
-La version 3.0 utilisera un "framework de design" qui est [Guna.UI](https://github.com/sobatdata/Guna.UI-Framework-Lib).
+La version 3.0 utilisera un "framework de design" qui est Guna.UI.
 Guna.UI permet de designer une interface utilisateur simplement en .NET Framework.
 Le framework contient de nombreux contrôles intéressants comme : 
 - GunaAdvenceButton
