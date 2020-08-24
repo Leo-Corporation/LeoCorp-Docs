@@ -1,2 +1,4 @@
-# Système de mise à jour
-Dans ce dossier, vous retrouverez tous les fichiers nécessaires au bon fonctionnement de nos systèmes de mise à jour.
+# Introduction
+In this folder, you will find all the files powering our update system of our softwares.
+# Warning
+Do not edit the content of this folder, except if you have the permission to do it.
