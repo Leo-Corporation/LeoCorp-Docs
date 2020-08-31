@@ -1,4 +1,4 @@
-Nouveau dans la version 3.5.0.2008 :
-- Correction d'un bug : Le bouton "Triangles" dans le launcher ne fonctionne pas
-- Nouvelles leçons
-- Nouveau design de la page "Accueil"
+Nouveau dans la version 3.6.0.2009 :
+- Correction d'une erreur de typo dans le niveau 3 (#84)
+- Correction d'un bug : Pas de curseur 'Main" sur le bouton "Léo Corp' dans la fenêtre de fin du jeu (#85)
+- Ajout de la page "Règles" au launcher
