@@ -1,36 +1,30 @@
 # Léo Corporation Docs
-## Qu'est-ce que c'est ?
-Léo Corporation Docs est le répertoire où se situent des documents, et des fichiers qui ont un lien avec nos logiciels.
+## What is it?
+In this repo, there is mainly vital files for our update system, documentation, and more.
 
-C'est aussi l'endroit où des fichiers de mises à jour seront stockés, il ne faut pas les modifier.
-## Dans quel but ?
-Le but principal de ce répertoire est de réviser les documents qui vont être publiés sur les répertoires ci-dessus. 
-
-Vous trouverez dans ce répertoire tous ces types de documents :
+Do not edit any update files.
+## What types of documents are stored here?
+You will find all this types of documents:
 - Issue Template
-- Règles (de contribution)
+- Rules
 - Documentation (wiki, code...)
-- Fichiers de mises à jour (versions, liens)
+- Update files (versions, softwares, etc...)
 
-> Note : Il peut potentiellement avoir d'autres types de documents présent dans ce répertoire, sans que ces types figurent dans la liste ci-desssus.
+> Note: It's possible that other types of documents are stored in this repo without being listed above.
 
-## Comment contribuer à ces documents ?
-### Règles
-Si vous souhaitez contribuer, de quelquonque manière à des documents présents dans ce répertoire, vous devrez prendre connaissance de ces règles :
-- Vous devez connaître le contexte du document : c'est à dire que vous devez savoir si le document est des types de documents ci-dessus. Vous devez aussi savoir la cible de ce document : utilisateurs du logiciel, contributeurs, etc...
-- La contribution que vous proposez doit être pertinente et accompagnée d'un commentaire expliquant les changements que vous avez effectués
-- La contribution ne doit pas déformer le document original, sauf dans certains cas précis. Elle ne doit pas contenir d'informations erronnées ou fausses.
-- La controbution ne doit pas comporter des erreurs de "typo", et doit éviter de comporter des fautes d'orthographe.
-- La contribution ne doit pas modifier les fichiers de mises à jour, sauf autorisation.
+## Where are the files?
 
-Merci de respecter ces règles.
-### Emplacement des documents
-Les documents se situent dans des dossiers, par exemple, les règles de contributions sont situées dans le dossier `Règles`.
+| Type of files | Location |
+| :-----------: | :------: |
+| Changelog | \Changelogs |
+| DOcumentation | \Documentation |
+| Roadmap | \Roadmaps
+| Update files (Software) | \Liens\Update System |
+| Update files (Suites) | \Liens\Suites |
+| Update files (Xalyus Store) | \Lines\Xalyus Store |
 
-Les fichiers de mise à jour sont situés dans le dossier "Liens".
-
-## Contribuer à README
-Vous pouvez contribuer à ce document pour le rendre plus clair et compréhensible.
+## Controbute to README
+You can contribute to help make this README better.
 
 ## License
-Projet sous license [Apache-2.0 License](https://github.com/Leo-Corporation/LeoCorp-Docs/blob/master/LICENSE.md)
+Project under the [Apache-2.0 License](https://github.com/Leo-Corporation/LeoCorp-Docs/blob/master/LICENSE.md).
