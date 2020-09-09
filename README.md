@@ -23,7 +23,7 @@ You will find all this types of documents:
 | Update files (Suites) | \Liens\Suites |
 | Update files (Xalyus Store) | \Lines\Xalyus Store |
 
-## Controbute to README
+## Contribute to README
 You can contribute to help make this README better.
 
 ## License
