@@ -1,4 +1,7 @@
-Nouveau dans la version 3.6.0.2009 :
-- Correction d'une erreur de typo dans le niveau 3 (#84)
-- Correction d'un bug : Pas de curseur 'Main" sur le bouton "Léo Corp' dans la fenêtre de fin du jeu (#85)
-- Ajout de la page "Règles" au launcher
+Nouveau dans la version 3.7.0.2009 :
+- Nouvelle couleur d’accentuation
+- Nouveau design sur la fenêtre « Mises à jour disponibles »
+- Nouveau design sur la fenêtre « Fin du jeu »
+- Nouveau design sur le menu échap
+- Coins arrondis sur le « Launcher »
+- Ajout d’un lien vers Educ’Maths 2021
