@@ -6,9 +6,9 @@
 ## Knowledge
 To contribute to this project, you will need to have some prerequisites:
 
-- A basic knowledge of C# (this project is written in C# 8.0)
+- A basic knowledge of C# (this project is written in C# X.X)
 - A basic knowledge of XAML
-- A basic knowledge of Visual Studio and Blend
+- A basic knowledge of Visual Studio
 
 ## Tools
 You will also need to have the following tools:
@@ -106,5 +106,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE. 
 */
+~~~
+6) Use camel case for variables and pascal case for properties and method:
+~~~ cs
+int myInt = 0; // Declare an int
+private int MyInt { get; set; } // Declare an int property
+
+private void DoStuff()
+{
+    myInt = 2; // Set myInt to 2
+}
 ~~~
 That's pretty much all you need right now. Keep in mind this document can be updated at any time, so make sure to keep checking these guidelines.
