@@ -17,10 +17,9 @@ You will find all this types of documents:
 | Type of files | Location |
 | :-----------: | :------: |
 | Changelog | [\Changelogs](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Changelogs) |
-| DOcumentation | [\Documentation](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Documentation) |
+| Documentation | [\Documentation](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Documentation) |
 | Roadmap | [\Roadmaps](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Roadmaps)
 | Update files (Software) | [\Liens\Update System](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Liens/Update%20System) |
-| Update files (Suites) | [\Liens\Suites](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Liens/Suites) |
 | Update files (Xalyus Store) | [\Liens\Xalyus Store](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Liens/Xalyus%20Store) |
 
 ## Contribute to README
