@@ -26,4 +26,4 @@ You will find all this types of documents:
 You can contribute to help make this README better.
 
 ## License
-Project under the [Apache-2.0 License](https://github.com/Leo-Corporation/LeoCorp-Docs/blob/master/LICENSE.md).
+Project under the [Apache-2.0 License](https://github.com/Leo-Corporation/LeoCorp-Docs/blob/master/LICENSE).
