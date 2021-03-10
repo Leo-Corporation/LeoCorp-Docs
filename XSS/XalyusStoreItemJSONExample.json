@@ -1,0 +1,30 @@
+[
+    {
+        "Name": "Passliss",
+        "DotNetVersion": "NET 5.0",
+        "NTWindowsVersion": 61,
+        "IconURL": "https://github.com/Leo-Peyronnet.png",
+        "Description": "A modern password generator for Windows",
+        "DownloadLink": "https://www.mediafire.com/file/ohcs00n2nv6zocn/PasslissSetup.exe/file",
+        "ScreenshotsUrls": [
+            "https://github.com/Leo-Peyronnet.png",
+            "https://github.com/Leo-Peyronnet.png"
+        ],
+        "FileExtension": ".exe",
+        "FileName": "PasslissSetup"
+    },
+    {
+        "Name": "Gerayis",
+        "DotNetVersion": "NET 5.0",
+        "NTWindowsVersion": 61,
+        "IconURL": "https://github.com/Leo-Peyronnet.png",
+        "Description": "A modern bar code/QR code generator for Windows",
+        "DownloadLink": "https://www.mediafire.com/file/tn32k3ff6zdvqs4/GerayisSetup.exe/file",
+        "ScreenshotsUrls": [
+            "https://github.com/Leo-Peyronnet.png",
+            "https://github.com/Leo-Peyronnet.png"
+        ],
+        "FileExtension": ".exe",
+        "FileName": "GerayisSetup"
+    }
+]
