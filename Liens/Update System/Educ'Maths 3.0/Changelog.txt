@@ -1,4 +1,5 @@
-Nouveau dans la version 3.8.1.2012 :
-- Amélioration de la fenêtre "Fin du niveau"
-- Amélioration des messages.
-- Suppression de la section "Commentaires" dans le launcher
+Nouveau dans la version 3.8.2.2103 :
+- Mise à jour du logo Léo Corporation
+- Amélioration de la page "A propos"
+- Mise à jour du copyright
+- Correction de bugs
