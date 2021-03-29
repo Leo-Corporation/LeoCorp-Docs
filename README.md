@@ -16,11 +16,12 @@ You will find all this types of documents:
 
 | Type of files | Location |
 | :-----------: | :------: |
-| Changelog | [\Changelogs](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Changelogs) |
 | Documentation | [\Documentation](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Documentation) |
 | Roadmap | [\Roadmaps](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Roadmaps)
 | Update files (Software) | [\Liens\Update System](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Liens/Update%20System) |
 | Update files (Xalyus Store) | [\Liens\Xalyus Store](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Liens/Xalyus%20Store) |
+
+- The documentation folder also contains issue templates and more.
 
 ## Contribute to README
 You can contribute to help make this README better.
