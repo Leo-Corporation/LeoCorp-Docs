@@ -59,8 +59,8 @@
             }
         ],
         "Name": "Utilities",
-        "BackgroundColor1": "#fff",
-        "BackgroundColor2": "#fff"
+        "BackgroundColor1": "#005BEA",
+        "BackgroundColor2": "#00C6FB"
     },
     {
         "CategoryStoreItems": [
@@ -108,8 +108,8 @@
             }
         ],
         "Name": "Games",
-        "BackgroundColor1": "#fff",
-        "BackgroundColor2": "#fff"
+        "BackgroundColor1": "#D8A718",
+        "BackgroundColor2": "#FF5500"
     },
     {
         "CategoryStoreItems": [
@@ -157,7 +157,7 @@
             }
         ],
         "Name": "Management",
-        "BackgroundColor1": "#fff",
-        "BackgroundColor2": "#fff"
+        "BackgroundColor1": "#543CFF",
+        "BackgroundColor2": "#8E37D7"
     }
 ]
