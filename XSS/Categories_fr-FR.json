@@ -1,0 +1,163 @@
+[
+    {
+        "CategoryStoreItems": [
+            {
+                "Name": "InternetTest",
+                "DotNetVersion": "5.0",
+                "NTWindowsVersion": 61,
+                "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/InternetTest.png",
+                "Description": "InternetTest est un utilitaire de connection moderne pour Windows.",
+                "DownloadLink": "https://www.mediafire.com/file/e2ru8telftzm8ly/InternetTestSetup.exe/file",
+                "ScreenshotsUrls": [
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/InternetTest/InternetTest1.png",
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/InternetTest/InternetTest2.png"
+                ],
+                "FileExtension": "exe",
+                "FileName": "InternetTestSetup"
+            },
+            {
+                "Name": "Passliss",
+                "DotNetVersion": "5.0",
+                "NTWindowsVersion": 61,
+                "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/Passliss.png",
+                "Description": "Un g\u00E9n\u00E9rateur de mots de passe moderne pour Windows.",
+                "DownloadLink": "https://www.mediafire.com/file/ohcs00n2nv6zocn/PasslissSetup.exe/file",
+                "ScreenshotsUrls": [
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/Passliss/Passliss1.png",
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/Passliss/Passliss2.png"
+                ],
+                "FileExtension": "exe",
+                "FileName": "PasslissSetup"
+            },
+            {
+                "Name": "ColorPicker",
+                "DotNetVersion": "5.0",
+                "NTWindowsVersion": 61,
+                "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/ColorPicker.png",
+                "Description": "Un outils de s\u00E9lection de couleur (color picking) moderne pour Windows.",
+                "DownloadLink": "https://www.mediafire.com/file/q46cdenxgyqx0dd/ColorPickerSetup.exe/file",
+                "ScreenshotsUrls": [
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/ColorPicker/ColorPicker1.png",
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/ColorPicker/ColorPicker2.png"
+                ],
+                "FileExtension": "exe",
+                "FileName": "ColorPickerSetup"
+            },
+            {
+                "Name": "Gerayis",
+                "DotNetVersion": "5.0",
+                "NTWindowsVersion": 61,
+                "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/Gerayis.png",
+                "Description": "Gerayis est un g\u00E9n\u00E9rateur de codes barre et de QR codes moderne pour Windows.",
+                "DownloadLink": "https://www.mediafire.com/file/tn32k3ff6zdvqs4/GerayisSetup.exe/file",
+                "ScreenshotsUrls": [
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/Gerayis/Gerayis1.png",
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/Gerayis/Gerayis2.png"
+                ],
+                "FileExtension": "exe",
+                "FileName": "GerayisSetup"
+            }
+        ],
+        "Name": "Utilitaires",
+        "BackgroundColor1": "#fff",
+        "BackgroundColor2": "#fff"
+    },
+    {
+        "CategoryStoreItems": [
+            {
+                "Name": "Educ\u0027Maths 2020",
+                "DotNetVersion": "Framework 4.7.2",
+                "NTWindowsVersion": 61,
+                "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/EM2020.png",
+                "Description": "Educ\u0027Maths 2020 est un jeu \u00E9ducatif qui permet d\u0027apprendre ou d\u0027exercer ses connaissances en maths. Age requis : 10 ans, niveau de difficult\u00E9 max : cycle 3.",
+                "DownloadLink": "https://www.mediafire.com/file/4zyq0fiiznngy3c/Educ%2527Maths_2020_Setup.msi/file",
+                "ScreenshotsUrls": [
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/EducMaths%202020/EducMaths20201.png",
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/EducMaths%202020/EducMaths20202.png"
+                ],
+                "FileExtension": "msi",
+                "FileName": "Educ\u0027Maths 2020 Setup"
+            },
+            {
+                "Name": "Educ\u0027Maths 2021",
+                "DotNetVersion": "Framework 4.7.2",
+                "NTWindowsVersion": 61,
+                "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/EM2021.png",
+                "Description": "Educ\u0027Maths 2021 est un jeu \u00E9ducatif qui permet d\u0027apprendre ou d\u0027exercer ses connaissances en maths. Age requis : 10 ans, niveau de difficult\u00E9 max : cycle 3.",
+                "DownloadLink": "https://www.mediafire.com/file/wu2cc4cxgwfytl0/Educ%2527Maths_2021_Setup.msi/file",
+                "ScreenshotsUrls": [
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/EducMaths%202021/EducMaths20211.png",
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/EducMaths%202021/EducMaths20212.png"
+                ],
+                "FileExtension": "msi",
+                "FileName": "Educ\u0027Maths 2021 Setup"
+            },
+            {
+                "Name": "Gavilya",
+                "DotNetVersion": "5.0",
+                "NTWindowsVersion": 61,
+                "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/Gavilya.png",
+                "Description": "Gavilya permet de rassembler tous vos jeux-vid\u00E9os en un seul endroit.",
+                "DownloadLink": "https://www.mediafire.com/file/o17u9ejfc3po061/GavilyaSetup.exe/file",
+                "ScreenshotsUrls": [
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/Gavilya/Gavilya1.png",
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/Gavilya/Gavilya2.png"
+                ],
+                "FileExtension": "exe",
+                "FileName": "GavilyaSetup"
+            }
+        ],
+        "Name": "Jeux",
+        "BackgroundColor1": "#fff",
+        "BackgroundColor2": "#fff"
+    },
+    {
+        "CategoryStoreItems": [
+            {
+                "Name": "GestionBiblio X, Basic edition",
+                "DotNetVersion": "Framework 4.7.2",
+                "NTWindowsVersion": 61,
+                "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/Gestion%20Biblio.png",
+                "Description": "GestionBiblio X, \u00E9dition Basique permet de g\u00E9rer des bases de donn\u00E9es de livres simplement.",
+                "DownloadLink": "https://www.mediafire.com/file/1kt6muuwcr917sx/GestionBiblio_X_Setup.msi/file",
+                "ScreenshotsUrls": [
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/GestionBiblio%20X/Basic/GestionBiblio%20X1.png",
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/GestionBiblio%20X/Basic/GestionBiblio%20X2.png"
+                ],
+                "FileExtension": "msi",
+                "FileName": "GestionBiblio X Setup"
+            },
+            {
+                "Name": "GestionBiblio X, Ultra edition",
+                "DotNetVersion": "Framework 4.7.2",
+                "NTWindowsVersion": 61,
+                "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/Gestion%20Biblio.png",
+                "Description": "GestionBiblio X, \u00E9dition Ultra permet de g\u00E9rer des bases de donn\u00E9es de livres simplement. Compatible avec GestionPerso X.",
+                "DownloadLink": "https://www.mediafire.com/file/vos4n07hzwuxipz/GestionBiblioXUltraSetup.msi/file",
+                "ScreenshotsUrls": [
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/GestionBiblio%20X/Ultra/GestionBiblio%20X%20Ultra1.png",
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/GestionBiblio%20X/Ultra/GestionBiblio%20X%20Ultra2.png"
+                ],
+                "FileExtension": "msi",
+                "FileName": "GestionBiblio X Ultra Setup"
+            },
+            {
+                "Name": "GestionPerso X",
+                "DotNetVersion": "Framework 4.7.2",
+                "NTWindowsVersion": 61,
+                "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/Gestion%20Perso.png",
+                "Description": "GestionPerso X permet de g\u00E9rer des bases de donn\u00E9es de personnes. Il est n\u00E9cessaire pour pouvoir utiliser GestionBiblio Avanc\u00E9.",
+                "DownloadLink": "https://www.mediafire.com/file/72hl5yov3cqz43t/GestionPerso_X_Setup.msi/file",
+                "ScreenshotsUrls": [
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/GestionPerso%20X/GestionPerso%20X1.png",
+                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/GestionPerso%20X/GestionPerso%20X2.png"
+                ],
+                "FileExtension": "msi",
+                "FileName": "GestionPerso X Setup"
+            }
+        ],
+        "Name": "Gestion",
+        "BackgroundColor1": "#fff",
+        "BackgroundColor2": "#fff"
+    }
+]
