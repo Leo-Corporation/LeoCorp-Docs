@@ -19,9 +19,8 @@ You will find all this types of documents:
 | Documentation | [\Documentation](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Documentation) |
 | Roadmap | [\Roadmaps](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Roadmaps)
 | Update files (Software) | [\Liens\Update System](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Liens/Update%20System) |
-| Update files (Xalyus Store) | [\Liens\Xalyus Store](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/Liens/Xalyus%20Store) |
+| Xalyus Store System (XSS) | [\XSS](https://github.com/Leo-Corporation/LeoCorp-Docs/tree/master/XSS) |
 
-**Warning: We are currently in the process of upgrading Xalyus Store's infrastructure, changes can be made.**
 
 The documentation folder also contains issue templates and more.
 
