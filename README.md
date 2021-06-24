@@ -2,7 +2,7 @@
 ## What is it?
 In this repo, there is mainly vital files for our update system, documentation, and more.
 
-Do not edit any update files.
+Do not edit any update files (XSS/Update System).
 ## What types of documents are stored here?
 You will find all this types of documents:
 - Issue Template
