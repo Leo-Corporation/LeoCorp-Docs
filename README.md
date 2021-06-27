@@ -1,4 +1,19 @@
-# Léo Corporation Docs
+![GitHub contributors](https://img.shields.io/github/contributors/Leo-Corporation/LeoCorp-Docs)
+![GitHub issues](https://img.shields.io/github/issues/Leo-Corporation/LeoCorp-Docs) 
+![GitHub](https://img.shields.io/github/license/Leo-Corporation/LeoCorp-Docs)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Leo-Corporation/LeoCorp-Docs/Check%20markdown%20links)
+
+<br />
+<p align="center">
+  <h1 align="center">Léo Corporation Docs</h3>
+
+  <p align="center">
+    Repo that host Léo Corporation's update system and documentation.
+    <br />
+    <a href="https://github.com/Leo-Corporation/LeoCorp-Docs/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBug%5D+">Report Bug</a>
+  </p>
+</p>
+
 ## What is it?
 In this repo, there is mainly vital files for our update system, documentation, and more.
 
