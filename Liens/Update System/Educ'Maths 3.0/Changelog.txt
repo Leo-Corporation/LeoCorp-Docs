@@ -1,5 +1,4 @@
 Nouveau dans la version 3.8.2.2103 :
-- Mise à jour du logo Léo Corporation
-- Amélioration de la page "A propos"
-- Mise à jour du copyright
-- Correction de bugs
+- Mise à jour de la page "A propos"
+- Mise à jour des liens vers le site de Léo Corporation
+- Mise à jour du logo Léo Corporation dans la page "Paramètres"
