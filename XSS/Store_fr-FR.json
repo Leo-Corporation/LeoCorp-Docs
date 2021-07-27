@@ -98,45 +98,17 @@
         "FileName": "GerayisSetup"
     },
     {
-        "Name": "GestionBiblio X, Basic edition",
-        "DotNetVersion": "Framework 4.7.2",
+        "Name": "Datalya",
+        "DotNetVersion": "5.0",
         "NTWindowsVersion": 61,
-        "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/Gestion%20Biblio.png",
-        "Description": "GestionBiblio X, \u00E9dition Basique permet de g\u00E9rer des bases de donn\u00E9es de livres simplement.",
-        "DownloadLink": "https://www.mediafire.com/file/1kt6muuwcr917sx/GestionBiblio_X_Setup.msi/file",
+        "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/Datalya.png",
+        "Description": "Un gestionnaire moderne et simple de base de donn\u00E9es pour Windows.",
+        "DownloadLink": "https://www.mediafire.com/file/j18x8ozfbi2dhnf/DatalyaSetup.exe/file",
         "ScreenshotsUrls": [
-            "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/GestionBiblio%20X/Basic/GestionBiblio%20X1.png",
-            "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/GestionBiblio%20X/Basic/GestionBiblio%20X2.png"
+            "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/Datalya/Capture%20d%E2%80%99%C3%A9cran%202021-07-27%20104632.png",
+            "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/Datalya/Capture%20d%E2%80%99%C3%A9cran%202021-07-27%20105054.png"
         ],
-        "FileExtension": "msi",
-        "FileName": "GestionBiblio X Setup"
-    },
-    {
-        "Name": "GestionBiblio X, Ultra edition",
-        "DotNetVersion": "Framework 4.7.2",
-        "NTWindowsVersion": 61,
-        "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/Gestion%20Biblio.png",
-        "Description": "GestionBiblio X, \u00E9dition Ultra permet de g\u00E9rer des bases de donn\u00E9es de livres simplement. Compatible avec GestionPerso X.",
-        "DownloadLink": "https://www.mediafire.com/file/vos4n07hzwuxipz/GestionBiblioXUltraSetup.msi/file",
-        "ScreenshotsUrls": [
-            "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/GestionBiblio%20X/Ultra/GestionBiblio%20X%20Ultra1.png",
-            "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/GestionBiblio%20X/Ultra/GestionBiblio%20X%20Ultra2.png"
-        ],
-        "FileExtension": "msi",
-        "FileName": "GestionBiblio X Ultra Setup"
-    },
-    {
-        "Name": "GestionPerso X",
-        "DotNetVersion": "Framework 4.7.2",
-        "NTWindowsVersion": 61,
-        "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/Gestion%20Perso.png",
-        "Description": "GestionPerso X permet de g\u00E9rer des bases de donn\u00E9es de personnes. Il est n\u00E9cessaire pour pouvoir utiliser GestionBiblio Avanc\u00E9.",
-        "DownloadLink": "https://www.mediafire.com/file/72hl5yov3cqz43t/GestionPerso_X_Setup.msi/file",
-        "ScreenshotsUrls": [
-            "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/GestionPerso%20X/GestionPerso%20X1.png",
-            "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/GestionPerso%20X/GestionPerso%20X2.png"
-        ],
-        "FileExtension": "msi",
-        "FileName": "GestionPerso X Setup"
+        "FileExtension": "exe",
+        "FileName": "DatalyaSetup"
     }
 ]
