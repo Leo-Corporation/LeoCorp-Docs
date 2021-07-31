@@ -3,11 +3,11 @@ description: Your issue doesn't fit in any categories.
 title: "[Misc] "
 labels: [misc]
 body:
-  - type: markdown
+- type: markdown
   attributes:
       value: |
         Thanks for taking the time to fill out this issue!
-  - type: textarea
+- type: textarea
   attributes:
     label: Description of your issue
     description: Describe the problem.
