@@ -19,3 +19,5 @@ body:
     label: Other informations
     description: If you have other informations, like mockups, etc., put them here.
     placeholder: Add other informations here.
+  validations:
+    required: false
