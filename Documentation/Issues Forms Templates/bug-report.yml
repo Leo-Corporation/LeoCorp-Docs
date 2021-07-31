@@ -25,7 +25,7 @@ body:
   attributes:
     label: Screenshots
     description: Join a screenshot if you can.
-    placeholder: Drag or paste an image here.S
+    placeholder: Drag or paste an image here.
   validations:
     required: false
   - type: dropdown
