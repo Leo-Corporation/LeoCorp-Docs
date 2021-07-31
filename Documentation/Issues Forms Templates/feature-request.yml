@@ -3,18 +3,18 @@ description: Request/Suggest a feature.
 title: "[Enhancement] "
 labels: [enhancement]
 body:
-  - type: markdown
+- type: markdown
   attributes:
       value: |
         Thanks for taking the time to suggest a new feature for this project!
-  - type: textarea
+- type: textarea
   attributes:
     label: Enhancement
     description: Describe your feature request/your idea here.
     placeholder: I would like to see...
   validations:
     required: true
-  - type: textarea
+- type: textarea
   attributes:
     label: Other informations
     description: If you have other informations, like mockups, etc., put them here.
