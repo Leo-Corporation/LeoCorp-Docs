@@ -42,5 +42,8 @@ The documentation folder also contains issue templates and more.
 ## Contribute to README
 You can contribute to help make this README better.
 
+## LeoCorpLibrary's Documentation
+[Click here](https://github.com/Leo-Corporation/LeoCorpLibrary-Web) to see LeoCorpLibrary's documentation repo.
+
 ## License
 Project under the [Apache-2.0 License](https://github.com/Leo-Corporation/LeoCorp-Docs/blob/master/LICENSE).
