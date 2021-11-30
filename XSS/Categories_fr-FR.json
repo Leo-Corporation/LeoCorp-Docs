@@ -65,34 +65,6 @@
     {
         "CategoryStoreItems": [
             {
-                "Name": "Educ\u0027Maths 2020",
-                "DotNetVersion": "Framework 4.7.2",
-                "NTWindowsVersion": 61,
-                "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/EM2020.png",
-                "Description": "Educ\u0027Maths 2020 est un jeu \u00E9ducatif qui permet d\u0027apprendre ou d\u0027exercer ses connaissances en maths. Age requis : 10 ans, niveau de difficult\u00E9 max : cycle 3.",
-                "DownloadLink": "https://www.mediafire.com/file/4zyq0fiiznngy3c/Educ%2527Maths_2020_Setup.msi/file",
-                "ScreenshotsUrls": [
-                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/EducMaths%202020/EducMaths20201.png",
-                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/EducMaths%202020/EducMaths20202.png"
-                ],
-                "FileExtension": "msi",
-                "FileName": "Educ\u0027Maths 2020 Setup"
-            },
-            {
-                "Name": "Educ\u0027Maths 2021",
-                "DotNetVersion": "Framework 4.7.2",
-                "NTWindowsVersion": 61,
-                "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/EM2021.png",
-                "Description": "Educ\u0027Maths 2021 est un jeu \u00E9ducatif qui permet d\u0027apprendre ou d\u0027exercer ses connaissances en maths. Age requis : 10 ans, niveau de difficult\u00E9 max : cycle 3.",
-                "DownloadLink": "https://www.mediafire.com/file/wu2cc4cxgwfytl0/Educ%2527Maths_2021_Setup.msi/file",
-                "ScreenshotsUrls": [
-                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/EducMaths%202021/EducMaths20211.png",
-                    "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/EducMaths%202021/EducMaths20212.png"
-                ],
-                "FileExtension": "msi",
-                "FileName": "Educ\u0027Maths 2021 Setup"
-            },
-            {
                 "Name": "Gavilya",
                 "DotNetVersion": "5.0",
                 "NTWindowsVersion": 61,
