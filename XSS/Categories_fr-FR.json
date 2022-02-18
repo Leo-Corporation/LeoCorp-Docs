@@ -66,7 +66,7 @@
         "CategoryStoreItems": [
             {
                 "Name": "Gavilya",
-                "DotNetVersion": "5.0",
+                "DotNetVersion": "6.0",
                 "NTWindowsVersion": 61,
                 "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/Gavilya.png",
                 "Description": "Gavilya permet de rassembler tous vos jeux-vid\u00E9os en un seul endroit.",
