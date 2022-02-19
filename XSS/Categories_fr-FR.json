@@ -3,7 +3,7 @@
         "CategoryStoreItems": [
             {
                 "Name": "InternetTest",
-                "DotNetVersion": "5.0",
+                "DotNetVersion": "6.0",
                 "NTWindowsVersion": 61,
                 "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/InternetTest.png",
                 "Description": "InternetTest est un utilitaire de connection moderne pour Windows.",
