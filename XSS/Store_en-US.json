@@ -57,7 +57,7 @@
     },
     {
         "Name": "Gerayis",
-        "DotNetVersion": "5.0",
+        "DotNetVersion": "6.0",
         "NTWindowsVersion": 61,
         "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/Gerayis.png",
         "Description": "A modern Bar/QR Code generator for Windows.",

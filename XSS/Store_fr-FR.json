@@ -57,7 +57,7 @@
     },
     {
         "Name": "Gerayis",
-        "DotNetVersion": "5.0",
+        "DotNetVersion": "6.0",
         "NTWindowsVersion": 61,
         "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/Gerayis.png",
         "Description": "Gerayis est un g\u00E9n\u00E9rateur de codes barre et de QR codes moderne pour Windows.",
