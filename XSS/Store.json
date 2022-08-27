@@ -1,21 +1,21 @@
 [
     {
-        "Name": "InternetTest",
+        "Name": "InternetTest Pro",
         "DotNetVersion": "6.0",
         "NTWindowsVersion": 61,
         "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/InternetTest.png",
-        "Description": "InternetTest is a modern connection utility for Windows.",
-        "DownloadLink": "https://www.mediafire.com/file/e2ru8telftzm8ly/InternetTestSetup.exe/file",
+        "Description": "Taking you to another level. InternetTest can locate IP addresses, send ping request, recover your WiFi passwords and more!",
+        "DownloadLink": "https://www.mediafire.com/file/si5blexkwhz9nhk/InternetTestProSetup.exe/file",
         "ScreenshotsUrls": [
             "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/InternetTest/InternetTest1.png",
             "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/InternetTest/InternetTest2.png"
         ],
         "FileExtension": "exe",
-        "FileName": "InternetTestSetup"
+        "FileName": "InternetTestProSetup"
     },
     {
         "Name": "Passliss",
-        "DotNetVersion": "5.0",
+        "DotNetVersion": "6.0",
         "NTWindowsVersion": 61,
         "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/Passliss.png",
         "Description": "A modern password generator for Windows.",
