@@ -1,7 +1,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/Leo-Corporation/LeoCorp-Docs)
 ![GitHub issues](https://img.shields.io/github/issues/Leo-Corporation/LeoCorp-Docs) 
 ![GitHub](https://img.shields.io/github/license/Leo-Corporation/LeoCorp-Docs)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Leo-Corporation/LeoCorp-Docs/Check%20markdown%20links)
 
 <br />
 <p align="center">
