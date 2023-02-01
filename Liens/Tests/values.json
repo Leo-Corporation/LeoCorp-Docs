@@ -45,6 +45,11 @@
         "url": "https://www.youtube.com/watch?v=wpV-gGA4PSk"
     },
     {
+        "perm": "a",
+        "case": "maths",
+        "url": "https://1drv.ms/b/s!AqmbMbAJ0AVagaEfQHJZU-vuVALVJQ?e=2AL2fK"
+    },
+    {
         "perm": "g",
         "case": "assembleur",
         "url": "https://github.com/Leo-Peyronnet/Useful-Scripts/tree/main/src/AQA%20-%20ASM"
