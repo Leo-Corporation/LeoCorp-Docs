@@ -28,18 +28,18 @@
         "FileName": "PasslissSetup"
     },
     {
-        "Name": "ColorPicker",
+        "Name": "ColorPicker Max",
         "DotNetVersion": "5.0",
         "NTWindowsVersion": 61,
         "IconURL": "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Logos/ColorPicker.png",
-        "Description": "A modern color picking tool for developers.",
-        "DownloadLink": "https://www.mediafire.com/file/q46cdenxgyqx0dd/ColorPickerSetup.exe/file",
+        "Description": "ColorPicker Max is an app that enables you to pick, create and convert colors, preview text colors, generate color palettes and gradients, and more.",
+        "DownloadLink": "https://www.mediafire.com/file/qsrhqv7pttwna4g/ColorPickerMaxSetup.exe/file",
         "ScreenshotsUrls": [
             "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/ColorPicker/ColorPicker1.png",
             "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/XSS/Screenshots/ColorPicker/ColorPicker2.png"
         ],
         "FileExtension": "exe",
-        "FileName": "ColorPickerSetup"
+        "FileName": "ColorPickerMaxSetup"
     },
     {
         "Name": "Gavilya",
